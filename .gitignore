@@ -1,0 +1,20 @@
+# Ignore virtual environments
+env/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore model files (optional, if large)
+*.pkl
+
+# macOS system file
+.DS_Store
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Streamlit config or logs (optional)
+.streamlit/
+
