@@ -18,3 +18,4 @@ __pycache__/
 # Streamlit config or logs (optional)
 .streamlit/
 
+env/
