@@ -1,4 +1,4 @@
-# 📊 Crypto 24h Volume Predictor
+# Crypto 24h Volume Predictor
 
 A machine learning-powered web application to forecast the **24-hour cryptocurrency trading volume** using real-time market indicators.
 
@@ -6,7 +6,7 @@ This Streamlit app leverages a trained **XGBoost regression model** to make accu
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 -  Python
 -  XGBoost (ML model)
 -  FastAPI (Backend)
@@ -14,7 +14,7 @@ This Streamlit app leverages a trained **XGBoost regression model** to make accu
 
 ---
 
-## 📈 Features
+## Features
 - Predicts 24h crypto trading volume from real-time market features  
 - Simple and clean UI using Streamlit  
 - Fast and lightweight REST API via FastAPI  
@@ -22,14 +22,14 @@ This Streamlit app leverages a trained **XGBoost regression model** to make accu
 
 ---
 
-## 🧠 Model Details
+## Model Details
 - Algorithm: XGBoost Regressor  
 - Features used: `price`, `volume`, `price_ma3`, `volatility3`, `price_pct_change`, `VPT`  
 - Evaluation metrics: R², RMSE, MAE
 
 ---
 
-## 🚀 How to Use
+## How to Use
 1. Launch the app .
 2. Input feature values.
 3. Click **Predict**.
@@ -37,13 +37,13 @@ This Streamlit app leverages a trained **XGBoost regression model** to make accu
 
 ---
 
-## 🌐 Deployment
+## Deployment
 Deployed on Hugging Face Spaces → [https://huggingface.co/spaces/AditiL/crypto-liquidity-prediction]
 
 ---
 
-## 👩‍💻 Author
+## Author
 Made by **Aditi Lidbe**  
-🔗 [GitHub](https://github.com/AditiLidbe) 🔗 [LinkedIn](https://www.linkedin.com/in/aditi-lidbe-288256257/)
+ [GitHub](https://github.com/AditiLidbe)  [LinkedIn](https://www.linkedin.com/in/aditi-lidbe-288256257/)
 
 ---
